@@ -25,6 +25,18 @@
           "type": "time"
         },
         {
+            "foreground": "#FFDE57",
+            "powerline_symbol": "\ue0b0",
+            "properties": {
+                "display_mode": "environment",
+                "fetch_virtual_env": true,
+                "home_enabled": true
+            },
+            "style": "diamond",
+            "template": " \ue235 {{ if .Error }}{{ .Error }}{{ else }}{{ if .Venv }}{{ .Venv }}{{ end }}{{ end }} ",
+            "type": "python"
+        },
+        {
           "foreground": "#ee79d1",
           "properties": {
             "branch_icon": "\ue725 ",
