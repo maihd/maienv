@@ -20,9 +20,13 @@ Docs for listing and creating new key bindings to different editors/IDEs. The pu
 - Ctrl+Q: Open sidebar menu list
 - Ctrl+`: Toggle and focus terminal (new if no terminal running)
 - Ctrl+F: Search for focusing file
+- Ctrl+up,down: Move to next empty line (or one page, may be work as big jump)
 - Ctrl+Alt+up,down: Clone cursors to above/below line
 - Ctrl+P: Split views
 - Ctrl+Shift+P: Close focusing split views
+- PageUp/PageDown: Move cursor one page (moved lines = height of doc view / line height)
+- Home: Jump cursor to first character of current line
+- End: Jump cursor to end character of current line
 
 
 ## Sidebar Control
