@@ -1,1 +1,5 @@
-ECHO is on.
+## Calva generated files
+## Dont why its generate here, I dont ever code Clojure in this project
+
+.clj-kondo
+.lsp
