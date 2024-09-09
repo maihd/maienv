@@ -33,7 +33,7 @@ For Beef development. Don't know how to customize it.
 For debugging and profiling. Specially C/C++ projects. You need to support thoses IDE.
 Maybe Unity and Dotnet, but exploring VSCode, because VSCode startup faster than VS (although VSCode is slow and ram exhausting).
 And in Unity context, when work on MacOS, Visual Studio now abandon its port to MacOS, so VSCode is the first go.
-
+-> Best CodeEditor/IDE for gamedev. 
 
 ## Hacker editors
 Used to using Emacs and Vim. But now quit because dont fluent coding with its anymore. Hard to turn back.
