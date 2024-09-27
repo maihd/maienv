@@ -10,7 +10,8 @@
 ## Font Rendering
 - Visual Studio have issues on rendering fonts. The tricks is use 90%/110% (based on your font size).
 - Change font size, repeat if the text rendered still bad.
-- Use other font weight
-- Options -> Text Editor -> Advanced: 
+- Use other fonts, font weights
+- Options -> Text Editor -> Advanced:
     - Text formatting method: Ideal
     - Text rendering method: ClearType
+- MacType should help, but you should use github releases, the version from the webpage is old and buggy.
